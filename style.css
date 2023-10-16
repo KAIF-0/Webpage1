@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* NAVBAR1 */
+
+.nav1{
+    height: 50px;
+    border: 0px solid black;
+    background-image: linear-gradient(to right, #e8cd8e, #a383a2, #ed91ea, #d914d2);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.logo-container{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    width: 30px;
+    height: 50px;
+    border: 2px solid none;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.nav1-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.nav1-text i{
+    position: relative;
+    right: 7px;
+}
+
+.email-logo{
+    position: relative;
+    left: 10px;
+}
+
+.email{
+    position: relative;
+    left: 15px;
+}
+
+.add-account{
+    border: 3px solid white;
+    color: white;
+    border-radius:20px;
+    width: 120px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 1000;
+}
