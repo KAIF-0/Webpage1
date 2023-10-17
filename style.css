@@ -399,7 +399,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    background-image: url(map.png);
+    background-image: url(grid6.png);
     background-size: contain;
     /* opacity: 10%; */
     height: 400px;   
@@ -489,7 +489,7 @@
 
 footer{
     height: 350px;
-    background-image: url(map.png);
+    background-image: url(grid3.png);
     background-size: contain;
     /* opacity: 30%; */
     display: flex;
@@ -500,9 +500,7 @@ footer{
 .foot-container{
     height: 300px;
     width: 60%;
-    background-image: url(map.png);
     background-size: contain;
-    /* opacity: 30%; */
     display: flex;
     flex-direction: column;
     align-items: flex-start;
